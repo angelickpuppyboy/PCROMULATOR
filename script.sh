@@ -3,7 +3,7 @@
 #This script depends on fuseiso and runs in fish. PLease consult your distro's documentation and install the appropriate packages or equivalencies.
 fuseiso location/of/iso/here.iso /location/of/mountpoint/here &&
 #Thi script assumes you are running an old visual novel, and thus runs Wine in a Japanese locale. You can remove the "LANG" variable if you are not.
-LANG=ja_JP.UTF-8 wine location/of/iso/here.is
+LANG=ja_JP.UTF-8 wine location/of/iso/here.iso
 wait
 #Unmounts after the EXE stops running.
 fusermount -u /home/gloria/VisualNovelISOs/clannadmountpoint/ 2>/dev/null
