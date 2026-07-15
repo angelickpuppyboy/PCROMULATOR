@@ -10,9 +10,13 @@ The idea was to create a simple lauch script for the ISO of a visual novel I am 
 
 ## USAGE INSTRUCTIONS
 Mount your ISO manually and run the setup.exe file. This will guide you through installing any dated drivers that you need. (Note these will only be installed to Wine!) While you're at it, copy the location of the actual game .exe file. For older Japanese VNs, this is often hidden in a GAMEDATA folder and called something like "RealLive.exe".
+
 Download the script.sh file and edit it in a text editor with the instructions in the comments (preceded by #). (This script CAN run from your desktop! That was the whole reason I started making it).
+
 Change the default app to open the script with. Set it to your terminal.
+
 And test! Your game should automatically mount and run!
+
 ## TROUBLESHOOTING
 1. If you're running a Japanese game or VN, make sure you have cjk-fonts installed. You can do this in Winetricks.
 2. If text is still all garbled, try changing the message box text font to one that supports CJK characters in winecfg. I use Meiriyo.
