@@ -6,4 +6,4 @@ fuseiso location/of/iso/here.iso /location/of/mountpoint/here &&
 LANG=ja_JP.UTF-8 wine location/of/iso/here.iso
 wait
 #Unmounts after the EXE stops running.
-fusermount -u /home/gloria/VisualNovelISOs/clannadmountpoint/ 2>/dev/null
+fusermount -u /location/of/mountpoint/here 2>/dev/null
