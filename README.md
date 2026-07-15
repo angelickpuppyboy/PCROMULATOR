@@ -4,7 +4,7 @@ A repository for the PCROMULATOR emulator project. Arch Linux exclusive for now.
 <img width="2048" height="300" alt="image" src="https://github.com/user-attachments/assets/c91bab94-3752-4148-a9af-3576914e87c9" />
 
 Hi, everyone, my name is Calne! I am a relatively new programmer, so I wanted to make my first application as simple as possible.
-Unfortunately, nobody has ever seemed to want to automate mounting an ISO on Arch before, so I had a rough go of it... But there's a first time for everything!
+The idea was to create a simple lauch script for the ISO of a visual novel I am playing. Unfortunately, nobody has ever seemed to want to automate mounting an ISO on Arch before, so I had a rough go of it... But there's a first time for everything!
 
 <img width="2048" height="300" alt="image" src="https://github.com/user-attachments/assets/99839439-2290-4e47-b644-a4f68699d6a8" />
 
