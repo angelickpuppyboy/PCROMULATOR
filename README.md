@@ -14,5 +14,7 @@ And test! Your game should automatically mount and run!
 2. If text is still all garbled, try changing the message box text font to one that supports CJK characters in winecfg. I use Meiriyo.
 3. You NEED fuseiso for this! Mounting an image otherwise requires root permissions!
 4. Also, you need Wine. Obviously.
+
+
 I might make a GUI or command-line package for this, but I have no idea where to start, to be honest. Don't count on it.
 That's all from me today! I hope this script helps someone, lol. Please contact pup.cel on Discord for any inquiries.
