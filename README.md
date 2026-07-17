@@ -23,6 +23,7 @@ And test! Your game should automatically mount and run!
 3. You NEED [fuseiso](https://wiki.archlinux.org/title/FuseISO) for this! Mounting an image otherwise requires root permissions!
 4. Also, you need Wine. Obviously.
 
+You can download the script directly [here](https://angelickpuppyboy.gumroad.com/l/hrzao)!
 
 I might make a GUI or command-line package for this, but I have no idea where to start, to be honest. Don't count on it.
 That's all from me today! I hope this script helps someone, lol. Please contact pup.cel on Discord for any inquiries.
