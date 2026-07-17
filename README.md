@@ -20,7 +20,7 @@ And test! Your game should automatically mount and run!
 ## TROUBLESHOOTING
 1. If you're running a Japanese game or VN, make sure you have cjk-fonts installed. You can do this in Winetricks.
 2. If text is still all garbled, try changing the message box text font to one that supports CJK characters in winecfg. I use Meiriyo.
-3. You NEED fuseiso for this! Mounting an image otherwise requires root permissions!
+3. You NEED [fuseiso](https://wiki.archlinux.org/title/FuseISO) for this! Mounting an image otherwise requires root permissions!
 4. Also, you need Wine. Obviously.
 
 
