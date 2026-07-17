@@ -9,7 +9,7 @@ The idea was to create a simple lauch script for the ISO of a visual novel I am 
 <img width="2048" height="300" alt="image" src="https://github.com/user-attachments/assets/99839439-2290-4e47-b644-a4f68699d6a8" />
 
 ## USAGE INSTRUCTIONS
-Mount your ISO manually and run the setup.exe file. This will guide you through installing any dated drivers that you need. (Note these will only be installed to Wine!) While you're at it, copy the location of the actual game .exe file. For older Japanese VNs, this is often hidden in a GAMEDATA folder and called something like "RealLive.exe".
+Mount your ISO to your mountpoint manually (with" $ fuseiso image directory") and run the setup.exe file. This will guide you through installing any dated drivers that you need. (Note these will only be installed to Wine!) While you're at it, copy the location of the actual game .exe file. For older Japanese VNs, this is often hidden in a GAMEDATA folder and called something like "RealLive.exe".
 
 Download the script.sh file and edit it in a text editor with the instructions in the comments (preceded by #). (This script CAN run from your desktop! That was the whole reason I started making it).
 
